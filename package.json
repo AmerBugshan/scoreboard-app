@@ -1,0 +1,23 @@
+{
+  "name": "scoreboard-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpit405/scoreboard-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpit405/scoreboard-app/issues"
+  },
+  "homepage": "https://github.com/cpit405/scoreboard-app#readme",
+  "description": "",
+  "dependencies": {
+    "scoreboard-app": "file:"
+  }
+}
